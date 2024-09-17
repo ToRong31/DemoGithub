@@ -1,1 +1,1 @@
-print("HelloWorld Local!!!")
+print("HelloWorld")
